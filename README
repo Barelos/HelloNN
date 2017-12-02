@@ -1,0 +1,8 @@
+Abstract:
+  An implementation of a neural net with  a basic numerical gradient calculator
+  in order to test behavior of backpropagation.
+  The neural net does not have Bias in each layer (this will hopefully be added
+  in the next iterations of this project)
+
+  Also added are a couple of test runs on known data sets "Iris" and "Breast
+  Cancer Philadelphia".
